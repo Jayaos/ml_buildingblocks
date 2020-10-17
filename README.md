@@ -30,6 +30,10 @@ Densely Connected Convolutional Networks (Liu et al., 2017)
 
 Siamese Neural Networks for One-shot Image Recognition (Koch et al., 2015)
 
+Deep Unordered Composition Rivals Syntactic Methods for Text Classification (Iyyer et al., 2015)
+
+Graph Attention Networks (Velickovic et al., 2018)
+
 
 ## Natural Language Processing
 Indexing by latent semantic analysis (Deerwester et al., 1990)
