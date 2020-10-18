@@ -34,6 +34,8 @@ Deep Unordered Composition Rivals Syntactic Methods for Text Classification (Iyy
 
 Graph Attention Networks (Velickovic et al., 2018)
 
+A Learned Representations for Artistic Style (V. Dumoulin, J. Shlens, and M. Kudlur, 2017)
+
 
 ## Natural Language Processing
 Indexing by latent semantic analysis (Deerwester et al., 1990)
