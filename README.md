@@ -40,6 +40,10 @@ A Learned Representations for Artistic Style (V. Dumoulin, J. Shlens, and M. Kud
 ## Natural Language Processing
 Indexing by latent semantic analysis (Deerwester et al., 1990)
 
+Language Models are Few-Shot Learners (Brown et al., 2020)
+
+Improving Language Understanding by Generative Pre-Training (Radford et al., 2018)
+
 
 ## Generative Models
 Auto-Encoding Variational Bayes (D. P. Kingma & Max Welling, 2013)
