@@ -44,6 +44,9 @@ Language Models are Few-Shot Learners (Brown et al., 2020)
 
 Improving Language Understanding by Generative Pre-Training (Radford et al., 2018)
 
+Deep contextualized word representations (M. Peters et al., 2018)
+
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (J. Devlin et al., 2018)
 
 ## Generative Models
 Auto-Encoding Variational Bayes (D. P. Kingma & Max Welling, 2013)
