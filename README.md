@@ -40,6 +40,10 @@ A Learned Representations for Artistic Style (V. Dumoulin, J. Shlens, and M. Kud
 ## Natural Language Processing
 Indexing by latent semantic analysis (Deerwester et al., 1990)
 
+Neural Word Embedding as Implicit Matrix Factorization (Goldberg et al., 2014)
+
+Improving Distributional Similarity with Lessons Learned from Word Embeddings (Goldberg et al., 2015)
+
 Language Models are Few-Shot Learners (Brown et al., 2020)
 
 Improving Language Understanding by Generative Pre-Training (Radford et al., 2018)
