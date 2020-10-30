@@ -36,6 +36,9 @@ Graph Attention Networks (Velickovic et al., 2018)
 
 A Learned Representations for Artistic Style (V. Dumoulin, J. Shlens, and M. Kudlur, 2017)
 
+Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (Sergey Ioffe and Christian Szegedy, 2015)
+
+Layer Normalization (Jimmy Lei Ba, Jamie Ryan Kiros, and Geoffrey E. Hinton, 2016)
 
 ## Natural Language Processing
 Indexing by latent semantic analysis (Deerwester et al., 1990)
