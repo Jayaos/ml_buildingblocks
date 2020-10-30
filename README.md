@@ -55,6 +55,8 @@ Deep contextualized word representations (M. Peters et al., 2018)
 
 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (J. Devlin et al., 2018)
 
+XLNet: Generalized Autoregressive Pretraining for Language Understanding (Yang et al., 2019)
+
 ## Generative Models
 Auto-Encoding Variational Bayes (D. P. Kingma & Max Welling, 2013)
 
