@@ -2,6 +2,7 @@
 
 ## How To Be A Good Researcher?
 [Research Dept](https://distill.pub/2017/research-debt/)
+[How to Review Journal Manuscripts](https://journals.sagepub.com/doi/pdf/10.1016/j.otohns.2010.02.010)
 
 ## Deep Learning
 Deep Learning (LeCun et al., 2015)
