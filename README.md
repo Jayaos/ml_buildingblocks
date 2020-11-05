@@ -59,6 +59,9 @@ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 
 XLNet: Generalized Autoregressive Pretraining for Language Understanding (Yang et al., 2019)
 
+Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation (Wu et al., 2016)
+
+
 ## Generative Models
 Auto-Encoding Variational Bayes (D. P. Kingma & Max Welling, 2013)
 
