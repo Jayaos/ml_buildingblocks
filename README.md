@@ -91,6 +91,8 @@ Towards A Rigorous Science of Interpretable Machine Learning (Doshi-Valez and Ki
 ## Probabilistic Machine Learning
 Amortized Inference in Probabilistic Reasoning (Gershman and Goodman, 2014)
 
+Practical Bayesian Optimization of Machine Learning Algorithms (Jasper Snoek, Hugo Larochelle, and Ryan P. Adams, 2012)
+
 
 ## Reinforcement Learning
 Human-level control through deep reinforcement learning (Mnih et al. 2015) 
