@@ -87,6 +87,8 @@ The Mythos of Model Interpretability (Z. Lipton, 2017)
 
 Towards A Rigorous Science of Interpretable Machine Learning (Doshi-Valez and Kim, 2017)
 
+Neural Autoregressive Distribution Estimation (Benigno Uria et al., 2016)
+
 
 ## Probabilistic Machine Learning
 Amortized Inference in Probabilistic Reasoning (Gershman and Goodman, 2014)
