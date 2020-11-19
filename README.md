@@ -42,6 +42,8 @@ Batch Normalization: Accelerating Deep Network Training by Reducing Internal Cov
 
 Layer Normalization (Jimmy Lei Ba, Jamie Ryan Kiros, and Geoffrey E. Hinton, 2016)
 
+The Continuous Bernoulli: fixing a pervasive error in variational autoencoders (Loaiza-Ganem and Cunningham, 2019)
+
 ## Natural Language Processing
 Indexing by latent semantic analysis (Deerwester et al., 1990)
 
