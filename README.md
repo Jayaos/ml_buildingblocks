@@ -44,7 +44,7 @@ Layer Normalization (Jimmy Lei Ba, Jamie Ryan Kiros, and Geoffrey E. Hinton, 201
 
 The Continuous Bernoulli: fixing a pervasive error in variational autoencoders (Loaiza-Ganem and Cunningham, 2019)
 
-Training Very Deep Networks (Srivastava, Greff, and Schmidhuber, 2015)
+[Training Very Deep Networks](https://arxiv.org/abs/1507.06228)
 
 ## Natural Language Processing
 Indexing by latent semantic analysis (Deerwester et al., 1990)
