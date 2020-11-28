@@ -46,6 +46,8 @@ The Continuous Bernoulli: fixing a pervasive error in variational autoencoders (
 
 [Training Very Deep Networks](https://arxiv.org/abs/1507.06228)
 
+[Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks](https://arxiv.org/abs/1903.03878)
+
 ## Natural Language Processing
 Indexing by latent semantic analysis (Deerwester et al., 1990)
 
