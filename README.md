@@ -67,6 +67,8 @@ XLNet: Generalized Autoregressive Pretraining for Language Understanding (Yang e
 
 Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation (Wu et al., 2016)
 
+[Character-Aware Neural Language Models](https://arxiv.org/pdf/1508.06615.pdf)
+
 
 ## Generative Models
 Auto-Encoding Variational Bayes (D. P. Kingma & Max Welling, 2013)
