@@ -69,6 +69,8 @@ Google’s Neural Machine Translation System: Bridging the Gap between Human and
 
 [Character-Aware Neural Language Models](https://arxiv.org/pdf/1508.06615.pdf)
 
+[context2vec: Learning Generic Context Embedding with Bidirectional LSTM](https://www.aclweb.org/anthology/K16-1006.pdf)
+
 
 ## Generative Models
 Auto-Encoding Variational Bayes (D. P. Kingma & Max Welling, 2013)
