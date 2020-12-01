@@ -48,6 +48,10 @@ The Continuous Bernoulli: fixing a pervasive error in variational autoencoders (
 
 [Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks](https://arxiv.org/abs/1903.03878)
 
+[Insights on representational similarity in neural networks with canonical correlation](https://papers.nips.cc/paper/2018/file/a7a3d70c6d17a73140918996d03c014f-Paper.pdf)
+
+[SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability](https://papers.nips.cc/paper/2017/file/dc6a7e655d7e5840e66733e9ee67cc69-Paper.pdf)
+
 ## Natural Language Processing
 Indexing by latent semantic analysis (Deerwester et al., 1990)
 
@@ -113,6 +117,10 @@ Practical Bayesian Optimization of Machine Learning Algorithms (Jasper Snoek, Hu
 ## Information Theory 
 
 [The Information Bottleneck Method](https://www.cs.huji.ac.il/labs/learning/Papers/allerton.pdf)
+
+[Relations Between Two Sets of Variates](https://www.jstor.org/stable/2333955?seq=1)
+
+[Estimation of Entropy and Mutual Information](https://www.stat.berkeley.edu/~binyu/summer08/L2P2.pdf)
 
 
 ## Reinforcement Learning
