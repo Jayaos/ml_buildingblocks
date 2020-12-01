@@ -81,21 +81,19 @@ Google’s Neural Machine Translation System: Bridging the Gap between Human and
 
 
 ## Generative Models
-Auto-Encoding Variational Bayes (D. P. Kingma & Max Welling, 2013)
+[Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
 
-Generative Adversarial Nets (I. Goodfellow et al., 2014)
+[Generative Adversarial Nets](https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
 
-Variational Autoencoders for Collaborative Filtering (Liang et al., 2018)
+[Variational Autoencoders for Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3178876.3186150?casa_token=QCAxNR7Zg98AAAAA:T5CeyPEGVCv8-Kfj74gTDWzQSGZL94huJ1Md7oZE6tbUie063SgqhfJObOT3BulfFNhHy-29xF4)
 
-Stochastic Back-propagation and Variational Inference in Deep Latent Gaussian Models (Rezende et al., 2014)
+[Stochastic Back-propagation and Variational Inference in Deep Latent Gaussian Models](http://www.cs.columbia.edu/~blei/fogm/2019F/readings/RezendeMohamedWierstra2014.pdf)
 
-Latent variable models and factors analysis (Barsolomew et al, 1999)
+[Variational Learning in Nonlinear Gaussian Belief Networks] (https://ieeexplore.ieee.org/abstract/document/6790581)
 
-Variational learning in nonlinear gaussian belief networks (Frey et al., 1999)
+[Neural Discrete Representation Learning](https://proceedings.neurips.cc/paper/2017/file/7a98af17e63a0ac09ce2e96d03992fbc-Paper.pdf)
 
-Neural Discrete Representation Learning (A. Oord, O. Vinyals, K. Kavukcuoglu, 2017)
-
-Image-to-Image Translation with Conditional Adversarial Nets, (P. Isola et al., 2017)
+[Image-to-Image Translation with Conditional Adversarial Nets](https://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)
 
 
 ## Machine Learning
