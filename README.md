@@ -110,6 +110,11 @@ Practical Bayesian Optimization of Machine Learning Algorithms (Jasper Snoek, Hu
 [Probabilistic Machine Learning for Healthcare](https://arxiv.org/abs/2009.11087)
 
 
+## Information Theory 
+
+[The Information Bottleneck Method](https://www.cs.huji.ac.il/labs/learning/Papers/allerton.pdf)
+
+
 ## Reinforcement Learning
 Human-level control through deep reinforcement learning (Mnih et al. 2015) 
 
