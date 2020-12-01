@@ -77,6 +77,8 @@ Google’s Neural Machine Translation System: Bridging the Gap between Human and
 
 [The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives](https://arxiv.org/pdf/1909.01380.pdf)
 
+[A Primer in BERTology: What We Know About How BERT Works](https://arxiv.org/pdf/2002.12327.pdf)
+
 
 ## Generative Models
 Auto-Encoding Variational Bayes (D. P. Kingma & Max Welling, 2013)
