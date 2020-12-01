@@ -89,7 +89,7 @@ Google’s Neural Machine Translation System: Bridging the Gap between Human and
 
 [Stochastic Back-propagation and Variational Inference in Deep Latent Gaussian Models](http://www.cs.columbia.edu/~blei/fogm/2019F/readings/RezendeMohamedWierstra2014.pdf)
 
-[Variational Learning in Nonlinear Gaussian Belief Networks] (https://ieeexplore.ieee.org/abstract/document/6790581)
+[Variational Learning in Nonlinear Gaussian Belief Networks](https://ieeexplore.ieee.org/abstract/document/6790581)
 
 [Neural Discrete Representation Learning](https://proceedings.neurips.cc/paper/2017/file/7a98af17e63a0ac09ce2e96d03992fbc-Paper.pdf)
 
