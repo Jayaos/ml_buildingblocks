@@ -129,3 +129,8 @@ Human-level control through deep reinforcement learning (Mnih et al. 2015)
 Guidelines for reinforcement learning in healthcare (O. Gottesman et al., 2019)
 
 Grandmaster Level in StarCraft II using Multi-agent Reinforcement Learning (Vinyals et al., 2019)
+
+
+## Healthcare
+
+[Predicting healthcare trajectories from medical records: A deep learningapproach](https://www.sciencedirect.com/science/article/pii/S1532046417300710)
