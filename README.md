@@ -79,6 +79,8 @@ Google’s Neural Machine Translation System: Bridging the Gap between Human and
 
 [A Primer in BERTology: What We Know About How BERT Works](https://arxiv.org/pdf/2002.12327.pdf)
 
+[Big Bird: Transformers for Longer Sequences](https://arxiv.org/pdf/2007.14062.pdf)
+
 
 ## Generative Models
 [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
