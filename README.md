@@ -52,6 +52,9 @@ The Continuous Bernoulli: fixing a pervasive error in variational autoencoders (
 
 [SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability](https://papers.nips.cc/paper/2017/file/dc6a7e655d7e5840e66733e9ee67cc69-Paper.pdf)
 
+[On the Difficulties of Training Recurrent Neural Networks](http://proceedings.mlr.press/v28/pascanu13.pdf)
+
+
 ## Natural Language Processing
 Indexing by latent semantic analysis (Deerwester et al., 1990)
 
