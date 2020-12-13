@@ -147,3 +147,5 @@ Grandmaster Level in StarCraft II using Multi-agent Reinforcement Learning (Viny
 [Modeling Missing Data in Clinical Time Series with RNNs](https://arxiv.org/pdf/1606.04130.pdf)
 
 [Learning to Diagnose with LSTM Recurrent Neural Networks](https://arxiv.org/pdf/1511.03677.pdf)
+
+[Using the Future to "Sort Out" the Present: Rankprop and Multitask Learning for Medical Risk Evaluation](https://proceedings.neurips.cc/paper/1995/file/36a16a2505369e0c922b6ea7a23a56d2-Paper.pdf)
