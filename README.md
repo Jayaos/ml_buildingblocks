@@ -112,6 +112,8 @@ Towards A Rigorous Science of Interpretable Machine Learning (Doshi-Valez and Ki
 
 Neural Autoregressive Distribution Estimation (Benigno Uria et al., 2016)
 
+[Optimal Thresholding of Classifiers to Maximize F1 Measure](https://link.springer.com/chapter/10.1007/978-3-662-44851-9_15)
+
 
 ## Probabilistic Machine Learning
 Amortized Inference in Probabilistic Reasoning (Gershman and Goodman, 2014)
@@ -141,3 +143,7 @@ Grandmaster Level in StarCraft II using Multi-agent Reinforcement Learning (Viny
 ## Healthcare
 
 [Predicting healthcare trajectories from medical records: A deep learningapproach](https://www.sciencedirect.com/science/article/pii/S1532046417300710)
+
+[Modeling Missing Data in Clinical Time Series with RNNs](https://arxiv.org/pdf/1606.04130.pdf)
+
+[Learning to Diagnose with LSTM Recurrent Neural Networks](https://arxiv.org/pdf/1511.03677.pdf)
