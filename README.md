@@ -56,6 +56,10 @@ The Continuous Bernoulli: fixing a pervasive error in variational autoencoders (
 
 [A Critical Review of Recurrent Neural Networks for Sequence Learning](https://arxiv.org/pdf/1506.00019.pdf)
 
+[Recurrent Neural Network Regularization](https://arxiv.org/pdf/1409.2329.pdf)
+
+[Dropout improves Recurrent Neural Networks for Handwriting Recognition](https://arxiv.org/pdf/1312.4569.pdf)
+
 
 ## Natural Language Processing
 Indexing by latent semantic analysis (Deerwester et al., 1990)
