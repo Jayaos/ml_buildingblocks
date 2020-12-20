@@ -60,6 +60,8 @@ The Continuous Bernoulli: fixing a pervasive error in variational autoencoders (
 
 [Dropout improves Recurrent Neural Networks for Handwriting Recognition](https://arxiv.org/pdf/1312.4569.pdf)
 
+[Transfer Learning by Borrowing Examples for Multiclass Object Detection](https://papers.nips.cc/paper/2011/file/e0eacd983971634327ae1819ea8b6214-Paper.pdf)
+
 
 ## Natural Language Processing
 Indexing by latent semantic analysis (Deerwester et al., 1990)
