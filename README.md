@@ -62,6 +62,10 @@ The Continuous Bernoulli: fixing a pervasive error in variational autoencoders (
 
 [Transfer Learning by Borrowing Examples for Multiclass Object Detection](https://papers.nips.cc/paper/2011/file/e0eacd983971634327ae1819ea8b6214-Paper.pdf)
 
+[Memory Networks](https://arxiv.org/pdf/1410.3916.pdf)
+
+[Pointer Networks](https://arxiv.org/pdf/1506.03134.pdf)
+
 
 ## Natural Language Processing
 Indexing by latent semantic analysis (Deerwester et al., 1990)
