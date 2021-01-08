@@ -66,6 +66,8 @@ The Continuous Bernoulli: fixing a pervasive error in variational autoencoders (
 
 [Pointer Networks](https://arxiv.org/pdf/1506.03134.pdf)
 
+[Neural Turing Machine](https://arxiv.org/pdf/1410.5401.pdf)
+
 
 ## Natural Language Processing
 Indexing by latent semantic analysis (Deerwester et al., 1990)
