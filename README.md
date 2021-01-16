@@ -68,6 +68,8 @@ The Continuous Bernoulli: fixing a pervasive error in variational autoencoders (
 
 [Neural Turing Machine](https://arxiv.org/pdf/1410.5401.pdf)
 
+[Towards a Neural Statistician](https://arxiv.org/pdf/1606.02185.pdf)
+
 
 ## Natural Language Processing
 Indexing by latent semantic analysis (Deerwester et al., 1990)
