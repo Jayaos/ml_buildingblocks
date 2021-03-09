@@ -102,6 +102,8 @@ Google’s Neural Machine Translation System: Bridging the Gap between Human and
 
 [Big Bird: Transformers for Longer Sequences](https://arxiv.org/pdf/2007.14062.pdf)
 
+[Understanding the Capabilities, Limitations, and Societal Impact of Large Language Models](https://arxiv.org/pdf/2102.02503.pdf)
+
 
 ## Generative Models
 [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
