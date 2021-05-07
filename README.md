@@ -72,6 +72,8 @@ The Continuous Bernoulli: fixing a pervasive error in variational autoencoders (
 
 [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)
 
+[How to represent part-whole hierarchies in a neural network](https://arxiv.org/pdf/2102.12627.pdf)
+
 
 ## Natural Language Processing
 Indexing by latent semantic analysis (Deerwester et al., 1990)
