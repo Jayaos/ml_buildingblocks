@@ -107,6 +107,13 @@ Google’s Neural Machine Translation System: Bridging the Gap between Human and
 [Understanding the Capabilities, Limitations, and Societal Impact of Large Language Models](https://arxiv.org/pdf/2102.02503.pdf)
 
 
+## Computer Vision
+
+[Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections](https://arxiv.org/pdf/1505.04597.pdf,)
+
+[U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
+
+
 ## Generative Models
 [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
 
@@ -121,6 +128,8 @@ Google’s Neural Machine Translation System: Bridging the Gap between Human and
 [Neural Discrete Representation Learning](https://proceedings.neurips.cc/paper/2017/file/7a98af17e63a0ac09ce2e96d03992fbc-Paper.pdf)
 
 [Image-to-Image Translation with Conditional Adversarial Nets](https://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)
+
+[Ladder Variational Autoencoders](https://arxiv.org/abs/1602.02282)
 
 
 ## Machine Learning
