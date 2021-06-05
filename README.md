@@ -74,6 +74,8 @@ The Continuous Bernoulli: fixing a pervasive error in variational autoencoders (
 
 [How to represent part-whole hierarchies in a neural network](https://arxiv.org/pdf/2102.12627.pdf)
 
+[Pay Attention to MLPs](https://arxiv.org/abs/2105.08050)
+
 
 ## Natural Language Processing
 Indexing by latent semantic analysis (Deerwester et al., 1990)
