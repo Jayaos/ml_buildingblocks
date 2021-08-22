@@ -133,6 +133,10 @@ Google’s Neural Machine Translation System: Bridging the Gap between Human and
 
 [Ladder Variational Autoencoders](https://arxiv.org/abs/1602.02282)
 
+## Causal Inference
+
+[Bayesian Nonparametric Modeling for Causal Inference](https://www.researchgate.net/publication/236588890_Bayesian_Nonparametric_Modeling_for_Causal_Inference)
+
 
 ## Machine Learning
 Factorization Machines (S. Rendle, 2012)
