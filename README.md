@@ -115,6 +115,8 @@ Google’s Neural Machine Translation System: Bridging the Gap between Human and
 
 [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
 
+[Learning Deep Features for Discriminative Localization](https://arxiv.org/pdf/1512.04150.pdf)
+
 
 ## Generative Models
 [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
