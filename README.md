@@ -28,8 +28,6 @@ Understanding the difficulty of training deep feedforward neural networks (Gloro
 
 Sequence to Sequence Learning with Neural Networks (Sutskever et al., 2014)
 
-Densely Connected Convolutional Networks (Liu et al., 2017)
-
 Siamese Neural Networks for One-shot Image Recognition (Koch et al., 2015)
 
 Deep Unordered Composition Rivals Syntactic Methods for Text Classification (Iyyer et al., 2015)
@@ -116,6 +114,8 @@ Google’s Neural Machine Translation System: Bridging the Gap between Human and
 [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
 
 [Learning Deep Features for Discriminative Localization](https://arxiv.org/pdf/1512.04150.pdf)
+
+[Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
 
 
 ## Generative Models
