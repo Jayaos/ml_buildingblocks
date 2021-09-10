@@ -74,6 +74,8 @@ The Continuous Bernoulli: fixing a pervasive error in variational autoencoders (
 
 [Pay Attention to MLPs](https://arxiv.org/abs/2105.08050)
 
+[Deep Unordered Composition Rivals Syntactic Methods for Text Classification](https://aclanthology.org/P15-1162.pdf)
+
 
 ## Natural Language Processing
 Indexing by latent semantic analysis (Deerwester et al., 1990)
