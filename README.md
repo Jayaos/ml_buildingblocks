@@ -121,6 +121,12 @@ Google’s Neural Machine Translation System: Bridging the Gap between Human and
 
 [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
 
+[Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567.pdf)
+
+[Deeply-Supervised Nets](https://arxiv.org/pdf/1409.5185.pdf)
+
+[Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex](https://arxiv.org/pdf/1604.03640.pdf)
+
 
 ## Generative Models
 [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
