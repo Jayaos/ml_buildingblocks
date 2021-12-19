@@ -110,7 +110,6 @@ Google’s Neural Machine Translation System: Bridging the Gap between Human and
 
 [Generating Wikipedia by Summarizing Long Sequences](https://arxiv.org/pdf/1801.10198.pdf)
 
-
 ## Computer Vision
 
 [Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections](https://arxiv.org/pdf/1505.04597.pdf,)
@@ -130,6 +129,10 @@ Google’s Neural Machine Translation System: Bridging the Gap between Human and
 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 
 [Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet](https://arxiv.org/abs/2105.02723)
+
+[Do Vision Transformers See Like Convolutional Neural Networks?](https://proceedings.neurips.cc/paper/2021/hash/652cf38361a209088302ba2b8b7f51e0-Abstract.html)
+
+[Neural Descriptor Fields: SE (3)-Equivariant Object Representations for Manipulation](https://arxiv.org/abs/2112.05124)
 
 
 ## Generative Models
