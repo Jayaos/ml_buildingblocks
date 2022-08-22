@@ -160,6 +160,7 @@ Google’s Neural Machine Translation System: Bridging the Gap between Human and
 
 [Bayesian Nonparametric Modeling for Causal Inference](https://www.researchgate.net/publication/236588890_Bayesian_Nonparametric_Modeling_for_Causal_Inference)
 
+
 ## Machine Learning
 Factorization Machines (S. Rendle, 2012)
 
@@ -179,8 +180,10 @@ Practical Bayesian Optimization of Machine Learning Algorithms (Jasper Snoek, Hu
 
 [Probabilistic Machine Learning for Healthcare](https://arxiv.org/abs/2009.11087)
 
+
 ## Self-supervised Learning
 [Bootstrap Your Own Latent A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf)
+
 [Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/pdf/2104.14294.pdf)
 
 
