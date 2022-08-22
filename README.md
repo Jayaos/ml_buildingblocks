@@ -1,9 +1,11 @@
 # Building Block Papers for Machine Learning
 
+
 ## How To Be A Good Researcher?
 [Research Dept](https://distill.pub/2017/research-debt/)
 
 [How to Review Journal Manuscripts](https://journals.sagepub.com/doi/pdf/10.1016/j.otohns.2010.02.010)
+
 
 ## Deep Learning
 Deep Learning (LeCun et al., 2015)
@@ -110,6 +112,7 @@ Google’s Neural Machine Translation System: Bridging the Gap between Human and
 
 [Generating Wikipedia by Summarizing Long Sequences](https://arxiv.org/pdf/1801.10198.pdf)
 
+
 ## Computer Vision
 
 [Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections](https://arxiv.org/pdf/1505.04597.pdf,)
@@ -152,10 +155,10 @@ Google’s Neural Machine Translation System: Bridging the Gap between Human and
 
 [Ladder Variational Autoencoders](https://arxiv.org/abs/1602.02282)
 
+
 ## Causal Inference
 
 [Bayesian Nonparametric Modeling for Causal Inference](https://www.researchgate.net/publication/236588890_Bayesian_Nonparametric_Modeling_for_Causal_Inference)
-
 
 ## Machine Learning
 Factorization Machines (S. Rendle, 2012)
@@ -175,6 +178,10 @@ Amortized Inference in Probabilistic Reasoning (Gershman and Goodman, 2014)
 Practical Bayesian Optimization of Machine Learning Algorithms (Jasper Snoek, Hugo Larochelle, and Ryan P. Adams, 2012)
 
 [Probabilistic Machine Learning for Healthcare](https://arxiv.org/abs/2009.11087)
+
+## Self-supervised Learning
+[Bootstrap Your Own Latent A New Approach to Self-Supervised Learning](https://arxiv.org/pdf/2006.07733.pdf)
+[Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/pdf/2104.14294.pdf)
 
 
 ## Information Theory 
