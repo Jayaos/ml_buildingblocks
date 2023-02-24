@@ -7,9 +7,7 @@
 [How to Review Journal Manuscripts](https://journals.sagepub.com/doi/pdf/10.1016/j.otohns.2010.02.010)
 
 
-## Deep Learning
-Deep Learning (LeCun et al., 2015)
-
+## Deep Learning Rubrics
 Long short-term memory (Hochreiter S & Schmidhuber J, 1997)
 
 Deep Residual Learning for Image Recognition (K. He et al., 2015)
